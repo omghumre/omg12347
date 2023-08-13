@@ -5,10 +5,11 @@
 
 <img align="right" alt="coding" width="1100" src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
 
-
+<img align="right" alt="coding" width="200" height="200" border-radius="50%" src="https://github.com/omg12347/omg12347/assets/97293861/dc6bed43-4eee-429f-8428-f1cd366ffd0f">
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Python , HTML , CSS , Javascript**
+- 💬 Ask me about **Python , HTML , CSS ,Javascript**
+
 
 - 📫 How to reach me **omghumre.official@gmail.com**
 
